@@ -1,7 +1,12 @@
 {
-  "name": "is-hsl-color",
-  "repository": "https://github.com/segmentio/is-hsl-color.git",
-  "version": "0.0.1",
+  "name": "segmentio-is-hsl-color",
   "description": "Loosely check whether a string is an HSL(A) color string.",
-  "keywords": ["validate", "hsl", "color"]
+  "version": "0.0.1",
+  "keywords": [
+    "validate",
+    "hsl",
+    "color"
+  ],
+  "dependencies": {},
+  "license": "MIT"
 }
